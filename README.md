@@ -16,28 +16,7 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,astro,php,mysql,git,vscode&theme=dark" alt="Tech stack"/>
-</p>
-
-<br/>
-
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mhrrdikaaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FFAB&icon_color=8A2BE2&text_color=c9d1d9"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhrrdikaaa&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FFAB&text_color=c9d1d9"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mhrrdikaaa&hide_border=true&background=0d1117&ring=00FFAB&fire=8A2BE2&currStreakLabel=00FFAB&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="80%"/>
-</p>
-
-<br/>
-
-<h3 align="center">Commit Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mhrrdikaaa&bg_color=0d1117&color=00FFAB&line=8A2BE2&point=ffffff&area=true&area_color=302b63&hide_border=true" alt="Commit activity graph" width="95%"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,astro,php,mysql,git,github,vscode&theme=dark" alt="Tech stack"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f0c29,50:302b63,100:24243e&section=footer" width="100%"/>
